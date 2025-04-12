@@ -1,8 +1,14 @@
 # 🔍 Customer Retention and Attrition Analysis
 
+![](https://github.com/Jamestown34/Customer-Retention-and-Attrition/blob/main/churn/download.png)
+
 ## 📝 Project Summary
 
 In this project, I analyzed customer retention and attrition trends to understand the factors leading to customer loyalty and what contributes to their departure. The goal was to identify **demographic patterns** and **behavioral traits** of retained and lost customers in order to improve retention strategies and reduce churn.
+
+
+![](https://github.com/Jamestown34/Customer-Retention-and-Attrition/blob/main/churn/Screenshot%20(62).png)
+
 
 ---
 
@@ -39,6 +45,8 @@ In this project, I analyzed customer retention and attrition trends to understan
 - **Retained & Inactive:** 1,302  
 - **Lost & Active:** 4,416  
   ⚠️ Many **active customers still leave**, suggesting activity alone doesn't ensure loyalty.
+![](https://github.com/Jamestown34/Customer-Retention-and-Attrition/blob/main/churn/Screenshot%20(63).png)
+
 
 ---
 
@@ -69,6 +77,8 @@ In this project, I analyzed customer retention and attrition trends to understan
 - Attrition occurs steadily across 1–9 years.  
   🚨 Retention strategies must **target the entire customer lifecycle**, not just new signups.
 
+![](https://github.com/Jamestown34/Customer-Retention-and-Attrition/blob/main/churn/Screenshot%20(64).png)
+
 ---
 
 ## ✅ Conclusion
@@ -81,6 +91,8 @@ This project uncovered critical insights into customer retention and attrition t
 - Activity levels  
 
 These findings are essential for developing **customer-focused strategies** that enhance loyalty, reduce churn, and drive sustainable business growth.
+
+![]()
 
 ---
 
